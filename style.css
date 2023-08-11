@@ -1,0 +1,30 @@
+img {
+    height: 200px;
+}
+
+.images img {
+    height: 100px;
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header, .hero-text, .footer {
+    background-color: #1F2937;
+}
+
+h1 {
+    font-size: 48x;
+    font-weight: 900;
+}
